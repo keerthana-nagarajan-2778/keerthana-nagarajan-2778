@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- I believe every problem has a solution—if not, we just haven’t debugged it enough!
 <!--
 **keerthana-nagarajan-2778/keerthana-nagarajan-2778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
